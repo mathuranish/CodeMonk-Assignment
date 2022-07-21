@@ -3,7 +3,7 @@ Created a REST API using DRF that takes in multiple paragraphs of text as input,
 and search fow word in paragraphs.
 
 
-##Functionality
+## Functionality
 - Created custom user models.
 - User can login via email and password.
 - Admin Dashboard can be accessed via email and password
