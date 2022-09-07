@@ -1,4 +1,4 @@
-# CodeMonk-Assignment
+# Paragraph
 Created a REST API using DRF that takes in multiple paragraphs of text as input, stores each paragraph in database
 and search fow word in paragraphs.
 
